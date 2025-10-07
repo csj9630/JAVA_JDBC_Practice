@@ -1,0 +1,27 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build folders
+bin/
+build/
+target/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Google Drive temp
+**/.tmp.driveupload/
